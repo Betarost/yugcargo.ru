@@ -1,42 +1,42 @@
 [
   {
-    "icon": "/contents/iconsForDev/laptop.svg",
+    "icon": "/contents/services/1.png",
     "category": "Sites",
-    "desc": "Landing page"
+    "desc": "Перевозки грузов"
   },
   {
-    "icon": "/contents/iconsForDev/autsorsing.svg",
+    "icon": "/contents/services/2.png",
     "category": "Web 3.0",
-    "desc": "Web 3 технологии"
+    "desc": "Экспедирование грузов"
   },
   {
-    "icon": "/contents/iconsForDev/laptop1.svg",
+    "icon": "/contents/services/3.png",
     "category": "Sites",
-    "desc": "Админ панели"
+    "desc": "Таможенное оформление"
   },
   {
-    "icon": "/contents/iconsForDev/key.svg",
+    "icon": "/contents/services/4.png",
     "category": "Telegram",
-    "desc": "Telegram Bot"
+    "desc": "Параллельный импорт"
   },
   {
-    "icon": "/contents/iconsForDev/mobile.svg",
+    "icon": "/contents/services/5.png",
     "category": "Apps",
-    "desc": "Мобильные приложения"
+    "desc": "Поставщики товаров"
   },
   {
-    "icon": "/contents/iconsForDev/arkhitektura.svg",
+    "icon": "/contents/services/6.png",
     "category": "Web 3.0",
-    "desc": "Blockchain"
+    "desc": "Сертификация"
   },
   {
-    "icon": "/contents/iconsForDev/bitrix.svg",
+    "icon": "/contents/services/7.png",
     "category": "Web 3.0",
-    "desc": "Смарт-контракты"
+    "desc": "Отправка сборных грузов"
   },
   {
-    "icon": "/contents/iconsForDev/dizayn.svg",
+    "icon": "/contents/services/8.png",
     "category": "AI",
-    "desc": "Обучение моделей"
+    "desc": "ВЭД аутсорсинг"
   }
 ]

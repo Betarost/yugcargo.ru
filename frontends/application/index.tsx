@@ -124,9 +124,8 @@ front.display = () => {
     return (
         <section class="application section" id="application">
             <div class="wrapper">
-                <h2 class="title-secondary">Оставьте заявку на проект</h2>
-                <p class="text-main">Оставьте контакты, чтобы обсудить проект и условия сотрудничества:
-                    <a href="tel:+7(938)-540-45-12" class="text__fiolet"> +7(938)-540-4512</a>
+                <h2 class="title-secondary">Оставьте заявку на консультацию</h2>
+                <p class="text-main text__fiolet">Оставьте контакты, для связи с вами:
                 </p>
                 <Navigation />
             </div>

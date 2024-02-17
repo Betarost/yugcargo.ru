@@ -3,10 +3,9 @@
     "front": [
         "header",
         "home",
-        "technologies",
         "info",
         "services",
-        "audit",
+        "technologies",
         "sendMessage",
         "application",
         "footer"
