@@ -1,15 +1,15 @@
 [
   {
-    "name": "Аудит",
-    "link": "#audit"
-  },
-  {
     "name": "Услуги",
     "link": "#services"
   },
   {
-    "name": "Технологии",
-    "link": "#technologies"
+    "name": "Партнёры",
+    "link": "#partners"
+  },
+  {
+    "name": "О компании",
+    "link": "#about"
   },
   {
     "name": "Контакты",

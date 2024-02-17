@@ -1,5 +1,5 @@
 import { Cemjsx, Func, Static, Fn } from "cemjs-all"
-import logo from '@svg/logo.svg'
+import logo from '@images/logo2.png'
 
 import menu from '@json/menu'
 
@@ -35,7 +35,7 @@ export default function () {
   return (
     <div class="header-inner">
       <a href="/" class="header-logo">
-        <img src={logo} alt="Разрабоки компании Crypto Emergency" />
+        <img src={logo} alt="Экспедиторская компания «ЮГ КАРГО СЕРВИС»" />
       </a>
       <nav class="header-nav">
         <RenderMenu items={menu} />
