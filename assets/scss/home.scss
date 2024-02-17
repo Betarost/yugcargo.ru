@@ -1,0 +1,72 @@
+.presa {
+    background-image: url('svg/backGradient2.svg');
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 100%;
+    padding-top: 6rem;
+
+    &-inner {
+        display: flex;
+        justify-content: space-between;
+        padding: 3rem 0 0 0;
+        gap: 2rem;
+        height: 100%;
+        // background-image: url('images/mobile.png');
+        // background-size: 25rem;
+        // background-repeat: no-repeat;
+        // background-position: right 100%;
+    }
+
+    &-info {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        max-width: 60%;
+    }
+
+    &-image {
+        img {
+            height: 100%;
+        }
+    }
+
+}
+
+@media(max-width: 1130px) {
+    .presa {
+        height: 100%;
+
+        &-inner {
+            background-image: none;
+            padding: 0;
+        }
+
+        &-info {
+            max-width: 100%;
+        }
+    }
+}
+
+@media(max-width: 1000px) {
+    .presa {
+        &-image {
+            display: none;
+        }
+    }
+}
+
+@media(max-width: 464px) {
+    .presa {
+        margin-bottom: 4rem;
+
+        // &-inner {
+        //     padding: 0;
+        // }
+
+        &-info {
+            gap: 1rem;
+        }
+    }
+}

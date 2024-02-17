@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "/contents/iconsForDev/laptop.svg",
+    "category": "Sites",
+    "desc": "Landing page"
+  },
+  {
+    "icon": "/contents/iconsForDev/autsorsing.svg",
+    "category": "Web 3.0",
+    "desc": "Web 3 технологии"
+  },
+  {
+    "icon": "/contents/iconsForDev/laptop1.svg",
+    "category": "Sites",
+    "desc": "Админ панели"
+  },
+  {
+    "icon": "/contents/iconsForDev/key.svg",
+    "category": "Telegram",
+    "desc": "Telegram Bot"
+  },
+  {
+    "icon": "/contents/iconsForDev/mobile.svg",
+    "category": "Apps",
+    "desc": "Мобильные приложения"
+  },
+  {
+    "icon": "/contents/iconsForDev/arkhitektura.svg",
+    "category": "Web 3.0",
+    "desc": "Blockchain"
+  },
+  {
+    "icon": "/contents/iconsForDev/bitrix.svg",
+    "category": "Web 3.0",
+    "desc": "Смарт-контракты"
+  },
+  {
+    "icon": "/contents/iconsForDev/dizayn.svg",
+    "category": "AI",
+    "desc": "Обучение моделей"
+  }
+]

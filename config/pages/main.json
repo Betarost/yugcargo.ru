@@ -1,0 +1,14 @@
+{
+    "url": "/",
+    "front": [
+        "header",
+        "home",
+        "technologies",
+        "info",
+        "services",
+        "audit",
+        "sendMessage",
+        "application",
+        "footer"
+    ]
+}

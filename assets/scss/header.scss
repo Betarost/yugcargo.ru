@@ -1,0 +1,43 @@
+.header {
+    position: absolute;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+
+    &-inner {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+        padding: 0.5rem 0;
+    }
+
+    &-logo {
+        img {
+            height: 65px;
+        }
+    }
+
+    &-list {
+        display: flex;
+        gap: 1.5rem;
+        justify-content: space-between;
+        align-items: center;
+
+        &_item {
+            font-size: clamp(1rem, 2vw, 1.2rem);
+            line-height: 1.5;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+    }
+
+}
+
+@media(max-width: 767px) {
+    .header {
+        &-list {
+            display: none;
+        }
+    }
+}
