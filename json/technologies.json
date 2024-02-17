@@ -1,89 +1,89 @@
 [
   {
-    "name": "backend"
+    "name": "Оперативность"
   },
   {
-    "name": "frontend"
+    "name": "Экономия"
   },
   {
-    "name": "mobile"
+    "name": "Экспедитор"
   },
   {
-    "name": "devops"
+    "name": "«Под ключ»"
   },
   {
-    "name": "support"
+    "name": "VIP"
   },
   {
-    "name": "sap"
+    "name": "Опыт"
   },
   {
-    "name": "architecture"
+    "name": "Качество"
   },
   {
-    "name": "analytics"
+    "name": "Импорт"
   },
   {
-    "name": "development"
+    "name": "Экспорт"
   },
   {
-    "name": "json"
+    "name": "Сборные грузы"
   },
   {
-    "name": "mongo"
+    "name": "Перетарка"
   },
   {
-    "name": "react"
+    "name": "Аутсорсинг"
   },
   {
-    "name": "api"
+    "name": "ВЭД"
   },
   {
-    "name": "golang"
+    "name": "Доставка"
   },
   {
-    "name": "typescript"
+    "name": "Перевозки"
   },
   {
-    "name": "nodejs"
+    "name": "Таможня"
   },
   {
-    "name": "python"
+    "name": "Сертификация"
   },
   {
-    "name": "rest"
+    "name": "Документы"
   },
   {
-    "name": "html"
+    "name": "Хранение"
   },
   {
-    "name": "css"
+    "name": "Склад"
   },
   {
-    "name": "javascript"
+    "name": "Растаможка"
   },
   {
-    "name": "vue"
+    "name": "География"
   },
   {
-    "name": "script"
+    "name": "Низкий %"
   },
   {
-    "name": "design"
+    "name": "Выгода"
   },
   {
-    "name": "framework"
+    "name": "Доступность"
   },
   {
-    "name": "cemjs"
+    "name": "Оперативность"
   },
   {
-    "name": "blockchain"
+    "name": "Демередж"
   },
   {
-    "name": "smart contract"
+    "name": "Партнерство"
   },
   {
-    "name": "docker"
+    "name": "Документооборот"
   }
 ]

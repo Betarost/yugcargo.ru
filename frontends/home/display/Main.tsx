@@ -1,26 +1,25 @@
 import { Cemjsx, Ref, Fn } from "cemjs-all"
-import mobile from '@images/mobile.png'
+import home from '@images/home2.jpg'
 
 export default function () {
   return (
     <div class="presa-inner">
       <div class="presa-info">
         <h1 class="title-main">
-          <span class="bracket">{`{ `}</span>
-          Создаём веб-продукты
-          <span class="bracket">{` }`}</span>
+          {/* <span class="bracket">{`«`}</span> */}
+          «Экспедиторская компания»
+          {/* <span class="bracket">{`»`}</span> */}
         </h1>
-        <p class="text-main">Мы — компания полного цикла. Наши услуги включают маркетинговую стратегию, брендинг,
-          производство рекламных материалов, разработку веб-продуктов, поддержку и эффективное привлечение аудитории.</p>
+        <p class="text-main">Профессионализм нашей команды обеспечивает экономию времени в портовом экспедировании и таможенном оформлении товаров, минимизируя простои транспорта, демередж и хранение контейнеров</p>
         <button
           class="btn btn__primary"
-          onclick={() => Fn.initOne("modalOrder", { title: "Оставить заявку на проект" })}
+          onclick={() => Fn.initOne("modalOrder", { title: "Оставить заявку на получение консультации" })}
         >
-          Заказать проект
+          Получить консультацию
         </button>
       </div>
       <div class="presa-image">
-        <img src={mobile} alt="Разработка веб продуктов" />
+        <img src={home} alt="Таможенном оформлении товаров" />
       </div>
     </div>
   )

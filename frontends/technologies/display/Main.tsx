@@ -29,16 +29,21 @@ export default function () {
         <div class="tech-inner">
             <div class="title">
                 <div>
-                    <h2 class="title-main">Стек технологий</h2>
+                    <h2 class="title-main">Мы выгодный партнер</h2>
                     <div class="title-desc_wrap">
-                        <span class="title-desc">функционал</span>
+                        <span class="title-desc">преимущества</span>
                         <div class="arrow">
                             <div class="arrow-line"></div>
                             <div class="arrow-rect"></div>
                         </div>
                     </div>
                 </div>
-                <p class="title-text">Мы команда опытных специалистов, специализирующихся на разработке и создании разноообразных <span class="text__fiolet">веб-решений</span>. Наша цель - помочь нашим клиентам воплотить их идеи в жизнь и достичь успеха в цифровом мире!</p>
+                <p class="title-text">
+                    Все наши клиенты - <span class="text__fiolet">VIP</span>
+                    <br></br>
+                    <span class="text__fiolet">Персональный</span>  подход к каждому клиенту с тенденцией развития и оптимизации.
+                </p>
+
             </div>
 
             <div class="tech-lines">

@@ -2,21 +2,21 @@
   {
     "name": "Местонахождение",
     "icon": "/contents/icons/location.svg",
-    "desc": "г. Новороссийск​, ул.Набережная им. Адмирала Серебрякова, 27а, ​4 этаж, офис 39",
-    "link": "https://yandex.ru/maps/970/novorossiysk/house/naberezhnaya_admirala_serebryakova_27a/Z04YcQ9kS0ACQFpufXtwc39mYw==/?indoorLevel=1&ll=37.784255%2C44.712357&z=17.06"
+    "desc": "353907, Россия, Краснодарский край, г. Новороссийск, ул. Мира, д. 5, офис 11.",
+    "link": "https://yandex.ru/maps/-/CDBsVDmo"
   },
   {
     "name": "Позвоните нам",
     "icon": "/contents/icons/phone.svg",
-    "desc": "+7(938)-540-4512",
+    "desc": "8 800 250-0-247",
     "center": true,
-    "link": "tel:+7(938)-540-4512"
+    "link": "tel:+78002500247"
   },
   {
     "name": "Напишите нам",
     "icon": "/contents/icons/mail.svg",
-    "desc": "support@crypto-emergency.com",
+    "desc": "inbox@yugcargo.ru",
     "center": true,
-    "link": "mailto:support@crypto-emergency.com"
+    "link": "mailto:inbox@yugcargo.ru"
   }
 ]
