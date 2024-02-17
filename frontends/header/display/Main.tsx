@@ -1,5 +1,5 @@
 import { Cemjsx, Func, Static, Fn } from "cemjs-all"
-import logo from '@images/logo2.png'
+import logo from '@images/logo5.png'
 
 import menu from '@json/menu'
 

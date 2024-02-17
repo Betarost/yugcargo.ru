@@ -133,7 +133,7 @@ export default function () {
 
                         let data = {
                             action: "contactForm",
-                            formName: "Оставьте заявку на проект",
+                            formName: "Югкарго (Игорь)",
                             contactForm: {
                                 fullName: Static.form.fullName.value,
                                 email: Static.form.email.value,
@@ -144,7 +144,6 @@ export default function () {
                         }
                         let answer = await front.Services.functions.sendApi("/api/tg/dev-cem", data)
 
-                        // console.log('=041922=', answer)
 
                         if (answer.error) {
                             Fn.initOne("modalNotify", {

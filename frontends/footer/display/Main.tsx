@@ -1,5 +1,5 @@
 import { Cemjsx, Fn } from "cemjs-all"
-import logo from '@svg/logo.svg'
+import logo from '@images/logo5.png'
 import socials from '@json/socials'
 
 const RenderSocials = function ({ items }) {
@@ -35,7 +35,10 @@ export default function () {
         </a>
         <RenderSocials items={socials} />
       </div>
-      <p class="footer-text">2023 © - DEVELOPED BY THE CRYPTO EMERGENCY TEAM - ALL RIGHTS RESERVED </p>
+
+      <p class="footer-text">Транспортно экспедиционная компания</p>
+      <p class="footer-text">ООО «ЮГ КАРГО СЕРВИС»</p>
+      <p class="footer-text">Copyright © 2012 - 2024 </p>
     </div>
   )
 }

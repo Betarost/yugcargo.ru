@@ -13,7 +13,12 @@ export default function () {
         <p class="text-main">Профессионализм нашей команды обеспечивает экономию времени в портовом экспедировании и таможенном оформлении товаров, минимизируя простои транспорта, демередж и хранение контейнеров</p>
         <button
           class="btn btn__primary"
-          onclick={() => Fn.initOne("modalOrder", { title: "Оставить заявку на получение консультации" })}
+          onclick={() => {
+            window.scrollTo({
+              top: document.querySelector("#application").offsetTop - 75,
+              behavior: "smooth"
+            })
+          }}
         >
           Получить консультацию
         </button>
