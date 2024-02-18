@@ -18,6 +18,13 @@ export default function () {
               top: document.querySelector("#application").offsetTop - 75,
               behavior: "smooth"
             })
+
+            try {
+              ym(96504719, 'reachGoal', 'clk_btn1')
+            } catch (error) {
+              console.error("ym=>", error)
+            }
+
           }}
         >
           Получить консультацию

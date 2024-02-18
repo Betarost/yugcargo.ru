@@ -10,6 +10,11 @@ export default function () {
                     top: document.querySelector("#application").offsetTop - 75,
                     behavior: "smooth"
                 })
+                try {
+                    ym(96504719, 'reachGoal', 'clk_sale')
+                } catch (error) {
+                    console.error("ym=>", error)
+                }
             }}
         >
             <p class="sale_text">Успей заказать консультацию и получи <span class="sale_text__accent">бесплатный</span> расчет стоимости услуги!</p>

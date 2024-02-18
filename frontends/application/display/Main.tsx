@@ -161,6 +161,12 @@ export default function () {
                         })
 
                         Func.clearFields()
+
+                        try {
+                            ym(96504719, 'reachGoal', 'send_form')
+                        } catch (error) {
+                            console.error("ym=>", error)
+                        }
                     }}
                 >
                     Отправить

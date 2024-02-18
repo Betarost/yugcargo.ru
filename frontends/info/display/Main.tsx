@@ -7,7 +7,16 @@ export default function () {
       {
         info.map(item => {
           return (
-            <a class="info_item" href={item.link} onclick={Fn.link}>
+            <a class="info_item" href={item.link} onclick={(e) => {
+              Fn.link(e)
+              try {
+                if (item.name == "Местонахождение") {
+                  ym(96504719, 'reachGoal', 'clk_map')
+                }
+              } catch (error) {
+                console.error("ym=>", error)
+              }
+            }}>
               <div class="info_item-title">
                 <img src={item.icon} alt={item.name} />
                 <span class="info_item-subtitle">{item.name}</span>
