@@ -1,4 +1,4 @@
-import { Cemjsx, Ref, Fn } from "cemjs-all"
+import { Cemjsx, front, Fn } from "cemjs-all"
 import home from '@images/home2.jpg'
 
 export default function () {

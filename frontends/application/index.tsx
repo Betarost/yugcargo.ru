@@ -122,10 +122,15 @@ front.loader = () => {
 
 front.display = () => {
     return (
-        <section class="application section" id="application">
+        <section class="application section" id="application" init={() => {
+            setTimeout(() => {
+                Fn.initOne("modalSale", {})
+            }, 5000);
+        }}>
             <div class="wrapper">
-                <h2 class="title-secondary">Оставьте заявку на консультацию</h2>
-                <p class="text-main text__fiolet">Оставьте контакты, для связи с вами:
+                <h2 class="title-secondary">Оставьте заявку на консультацию
+                </h2>
+                <p class="text-main text__fiolet">Контакты, для связи с вами:
                 </p>
                 <Navigation />
             </div>
