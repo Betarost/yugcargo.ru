@@ -142,7 +142,7 @@ export default function () {
                                 comment: Static.form.comment.value,
                             }
                         }
-                        let answer = await front.Services.functions.sendApi("/api/tg/dev-cem", data)
+                        let answer = await front.Services.functions.sendApi("https://message.cem.su/dev-cem", data)
 
 
                         if (answer.error) {
